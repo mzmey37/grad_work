@@ -1,0 +1,6 @@
+__pycache__/*
+.DS_Store
+models/*
+.ipynb_checkpoints/*
+data/*
+MNIST*
